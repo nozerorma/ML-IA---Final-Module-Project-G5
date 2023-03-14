@@ -1,0 +1,100 @@
+Patient Id,Patient Age,Genes in mother's side,Inherited from father,Maternal gene,Paternal gene,Blood cell count (mcL),Patient First Name,Family Name,Father's name,Mother's age,Father's age,Institute Name,Location of Institute,Status,Respiratory Rate (breaths/min),Heart Rate (rates/min,Test 1,Test 2,Test 3,Test 4,Test 5,Parental consent,Follow-up,Gender,Birth asphyxia,Autopsy shows birth defect (if applicable),Place of birth,Folic acid details (peri-conceptional),H/O serious maternal illness,H/O radiation exposure (x-ray),H/O substance abuse,Assisted conception IVF/ART,History of anomalies in previous pregnancies,No. of previous abortion,Birth defects,White Blood cell count (thousand per microliter),Blood test result,Symptom 1,Symptom 2,Symptom 3,Symptom 4,Symptom 5
+PID0x4175,6,No,Yes,No,No,4.981654852,Charles,,Kore,38,61,St. Elizabeth's Hospital,"30 WARREN ST
+ALLSTON/BRIGHTON, MA 02134
+(42.352620000312925, -71.13281000028115)",Alive,Tachypnea,Normal,0,-99,0,1,0,-99,Low,Male,Yes,Not applicable,Institute,Yes,No,Yes,-,No,-99,2,Multiple,-99,slightly abnormal,TRUE,TRUE,TRUE,TRUE,TRUE
+PID0x21f5,10,Yes,No,,Yes,5.118889519,Catherine,,Homero,33,53,-99,"249 RIVER ST
+MATTAPAN, MA 02126
+(42.27137912172521, -71.08168028446168)",Alive,,-99,0,0,-99,1,-99,Yes,Low,Male,Yes,Not applicable,-99,Yes,No,-99,-99,No,Yes,-99,Multiple,8.179583594,normal,FALSE,FALSE,FALSE,TRUE,FALSE
+PID0x49b8,5,No,,No,No,4.876203914,James,,Danield,48,60,,"1400 VFW Parkway
+West Roxbury, MA 02132
+(42.27598935537618, -71.17245195460838)",Deceased,,Normal,0,0,0,1,0,-99,Low,Ambiguous,Not available,-99,Institute,No,Yes,Yes,Yes,Yes,No,0,Singular,-99,slightly abnormal,FALSE,FALSE,TRUE,TRUE,FALSE
+PID0x2d97,13,No,Yes,Yes,No,4.687766889,Brian,,Orville,25,55,Boston Specialty & Rehabilitation Hospital,"51 BLOSSOM ST
+CENTRAL, MA 02114
+(42.36327718561898, -71.0668523937257)",Alive,-99,-99,0,0,0,1,0,-99,Low,Ambiguous,No,Not applicable,-99,Yes,Yes,-,-99,-99,Yes,-99,Singular,6.884071266,normal,TRUE,FALSE,TRUE,FALSE,TRUE
+PID0x58da,5,No,,,Yes,5.152361728,Gary,,Issiah,41,38,Not applicable,-,Deceased,Tachypnea,,0,0,0,1,0,Yes,Low,Ambiguous,No,None,Home,Yes,Yes,Yes,Not applicable,No,No,-99,Multiple,6.195178463,normal,TRUE,TRUE,TRUE,TRUE,FALSE
+PID0x96b6,9,No,No,,No,4.942383866,Thi,,Haydn,27,25,-99,"1200 Centre St
+Roslindale, MA 02131
+(42.29738386053219, -71.13150465441208)",Alive,-99,Tachycardia,0,0,-99,-99,0,Yes,High,Ambiguous,No record,Not applicable,Institute,No,-99,-99,Yes,No,Yes,0,-99,6.478252453,-99,TRUE,TRUE,TRUE,TRUE,TRUE
+PID0x399,4,Yes,No,,No,5.113778493,Monica,,Prabal,19,22,Kindred Hospital,"249 RIVER ST
+MATTAPAN, MA 02126
+(42.27137912172521, -71.08168028446168)",Alive,Normal (30-60),-99,0,0,0,1,0,-99,High,-99,Not available,Not applicable,Institute,No,Yes,Not applicable,Not applicable,Yes,No,1,-99,3.173918411,slightly abnormal,TRUE,TRUE,TRUE,TRUE,FALSE
+PID0x6819,5,Yes,No,,No,4.635095714,Pamela,,Marvan,48,24,-99,"1400 VFW Parkway
+West Roxbury, MA 02132
+(42.27598935537618, -71.17245195460838)",Alive,Normal (30-60),Tachycardia,0,0,-99,1,0,Yes,Low,Ambiguous,-99,Not applicable,Institute,No,No,Not applicable,No,Yes,Yes,2,Multiple,8.864554747,inconclusive,TRUE,TRUE,TRUE,TRUE,TRUE
+PID0x9697,12,No,Yes,No,No,5.175134761,Veronica,,Jahseir,37,51,Not applicable,-,Alive,Tachypnea,Normal,-99,-99,-99,-99,0,Yes,Low,Ambiguous,-99,Not applicable,Home,Yes,-99,-99,Not applicable,Yes,-99,3,Singular,-99,inconclusive,FALSE,TRUE,TRUE,FALSE,FALSE
+PID0x628a,3,No,Yes,No,No,4.778253316,Larry,,Cresenciano,28,56,Boston City Hospital,"125 NASHUA ST
+CENTRAL, MA 02114
+(42.36764789068138, -71.06564730220646)",Deceased,Tachypnea,-99,0,0,0,1,0,-99,Low,Male,No record,-99,Institute,No,Yes,-,Yes,No,Yes,-99,Multiple,3,abnormal,FALSE,FALSE,FALSE,TRUE,TRUE
+PID0x17c8,4,Yes,Yes,,Yes,5.207983727,Luz,,Darvis,39,23,Arbour Hospital,"330 BROOKLINE AV
+FENWAY/KENMORE, MA 02115
+(42.3438499996779, -71.08983000035408)",Alive,-99,,0,0,-99,-99,0,Yes,Low,Ambiguous,Not available,Not applicable,Institute,Yes,Yes,-99,No,No,No,3,Multiple,-99,-99,TRUE,TRUE,FALSE,TRUE,FALSE
+PID0x12d4,1,Yes,No,No,No,4.829604568,Robert,,Alrik,49,48,-99,"185 PILGRIM RD
+FENWAY/KENMORE, MA 02215
+(42.3385289546495, -71.10940050507557)",Deceased,Normal (30-60),Tachycardia,0,0,0,1,0,-99,-99,Female,Yes,Yes,-99,Yes,-99,No,-,Yes,Yes,-99,-99,3,slightly abnormal,FALSE,TRUE,FALSE,TRUE,FALSE
+PID0x92e,10,No,Yes,,No,5.250318689,Mary,,Demontre,40,33,Not applicable,-,Deceased,,Normal,0,0,0,1,0,Yes,-99,-99,-99,No,Home,Yes,No,Yes,-,-99,-99,4,Multiple,5.394542551,normal,FALSE,TRUE,TRUE,FALSE,FALSE
+PID0x4246,12,Yes,No,,No,5.035657297,Belva,,Geovan,22,37,,"185 PILGRIM RD
+FENWAY/KENMORE, MA 02215
+(42.3385289546495, -71.10940050507557)",Deceased,,Normal,0,-99,-99,1,0,Yes,Low,Ambiguous,No record,No,Institute,Yes,Yes,-,Yes,No,Yes,-99,Singular,4.220546465,-99,TRUE,TRUE,TRUE,TRUE,TRUE
+PID0x3623,9,No,Yes,,No,5.364072229,Eduardo,,Ladaryl,22,61,Not applicable,-,Alive,Normal (30-60),Normal,0,0,0,-99,0,-99,Low,Female,-99,Not applicable,Home,No,No,Not applicable,Yes,Yes,No,1,Multiple,7.856870821,normal,FALSE,TRUE,FALSE,TRUE,TRUE
+PID0x2c18,6,Yes,Yes,,No,5.086619334,Cynthia,,Maxmillion,21,45,,-,Deceased,Normal (30-60),Normal,0,0,0,1,0,Yes,High,Female,Yes,-99,Home,No,-99,-,-99,Yes,Yes,1,-99,9.065840639,slightly abnormal,TRUE,FALSE,FALSE,TRUE,FALSE
+PID0x1fe8,0,Yes,Yes,,No,5.233501605,Lawrence,,Musse,40,62,New England Medical Center,"2100 DORCHESTER AV
+DORCHESTER, MA 02124
+(42.27854306401838, -71.06631280050811)",Deceased,Tachypnea,Tachycardia,0,0,0,1,0,Yes,Low,Ambiguous,Yes,None,-99,Yes,Yes,-,Not applicable,-99,Yes,0,Multiple,9.346987464,-99,FALSE,FALSE,FALSE,FALSE,TRUE
+PID0x50fa,1,Yes,Yes,,Yes,5.300881474,Joan,,Jasik,46,64,-99,-,Alive,,Tachycardia,0,-99,-99,-99,0,Yes,Low,Male,Not available,Not applicable,-99,-99,No,-99,-,-99,Yes,0,Singular,11.79078154,inconclusive,TRUE,TRUE,TRUE,FALSE,TRUE
+PID0x6351,14,Yes,Yes,No,No,4.97310887,Joyce,,Damaj,39,64,Not applicable,-,Deceased,-99,,0,-99,-99,1,0,Yes,Low,Male,No,-99,Home,Yes,No,-,No,Yes,-99,1,-99,11.34907602,slightly abnormal,FALSE,TRUE,TRUE,FALSE,FALSE
+PID0x815,13,Yes,No,No,Yes,4.996282682,Timothy,,Jamaile,22,55,Not applicable,-,Alive,,Tachycardia,0,-99,0,-99,0,Yes,Low,Ambiguous,Not available,Not applicable,Home,-99,Yes,-,-99,Yes,Yes,1,Singular,3.900132061,-99,TRUE,FALSE,TRUE,TRUE,TRUE
+PID0x4963,4,Yes,No,Yes,No,4.982442365,Vanessa,,Helam,33,36,Not applicable,-,Alive,-99,-99,0,-99,-99,-99,0,Yes,High,Female,Not available,Not applicable,Home,No,Yes,No,-99,Yes,No,4,Singular,12,abnormal,TRUE,TRUE,TRUE,TRUE,TRUE
+PID0x1660,8,No,No,Yes,No,5.024288248,Lois,,Ekambir,24,58,,"249 RIVER ST
+MATTAPAN, MA 02126
+(42.27137912172521, -71.08168028446168)",Alive,Tachypnea,Tachycardia,0,0,0,1,0,Yes,Low,Male,No record,Not applicable,Institute,Yes,-99,-,Not applicable,Yes,-99,1,Multiple,9.8101288,inconclusive,TRUE,FALSE,TRUE,FALSE,FALSE
+PID0x8dd5,14,No,Yes,No,No,4.913516715,William,,Amanjit,30,62,Massachusetts Eye & Ear Infirmary,"75 FRANCIS ST
+FENWAY/KENMORE, MA 02115
+(42.33587602903896, -71.10741054246668)",Deceased,-99,-99,0,0,0,1,0,Yes,High,-99,No,None,-99,Yes,Yes,-99,Not applicable,No,Yes,1,Multiple,7.452311648,-99,TRUE,TRUE,TRUE,TRUE,TRUE
+PID0x8a85,12,No,No,Yes,No,4.775016709,Clarence,,Maurus,39,43,Not applicable,-,Alive,-99,,0,0,0,1,-99,Yes,Low,Female,Not available,Not applicable,-99,No,Yes,Not applicable,-99,Yes,No,-99,Singular,-99,inconclusive,FALSE,TRUE,TRUE,FALSE,FALSE
+PID0x7cfc,14,No,No,Yes,Yes,4.933022565,Grace,,Sheel,48,27,-99,"750 WASHINGTON ST
+CENTRAL, MA 02111
+(42.349946522039204, -71.0634111017112)",Alive,-99,,0,0,-99,1,0,-99,High,Female,Yes,Not applicable,Institute,Yes,Yes,-,No,Yes,-99,-99,-99,7.323525128,slightly abnormal,TRUE,TRUE,TRUE,TRUE,FALSE
+PID0x5e07,9,Yes,No,Yes,No,5.12132737,Orville,,Undra,25,46,-99,"125 NASHUA ST
+CENTRAL, MA 02114
+(42.36764789068138, -71.06564730220646)",Deceased,,-99,0,-99,-99,1,0,Yes,High,Ambiguous,Yes,None,Institute,No,-99,Not applicable,Yes,Yes,No,0,Multiple,10.03861464,normal,TRUE,FALSE,TRUE,TRUE,TRUE
+PID0x2b91,13,Yes,Yes,No,No,4.733420839,Robert,,Keyten,28,61,New England Medical Center,"1400 VFW Parkway
+West Roxbury, MA 02132
+(42.27598935537618, -71.17245195460838)",Deceased,-99,-99,0,0,0,1,0,Yes,-99,Female,-99,None,Institute,-99,No,No,-,Yes,Yes,3,Multiple,-99,abnormal,FALSE,TRUE,TRUE,TRUE,FALSE
+PID0x3da9,6,Yes,No,Yes,No,4.3666804,Catina,,Treyvonne,47,50,Jewish Memorial Hospital,"30 WARREN ST
+ALLSTON/BRIGHTON, MA 02134
+(42.352620000312925, -71.13281000028115)",Alive,Normal (30-60),Normal,0,0,0,1,0,-99,Low,Male,No,Not applicable,-99,No,-99,-,-99,-99,No,3,Multiple,-99,normal,TRUE,TRUE,FALSE,TRUE,TRUE
+PID0x3ef3,9,Yes,No,Yes,Yes,4.486934384,Lindsey,,Marven,41,30,Not applicable,-,Alive,,-99,0,-99,0,-99,0,Yes,-99,Female,No record,Not applicable,Home,No,Yes,No,-,Yes,No,4,Singular,9.469854458,normal,TRUE,TRUE,TRUE,TRUE,FALSE
+PID0x5148,12,Yes,No,Yes,Yes,4.903730684,Carol,,Driggs,39,24,-99,"125 NASHUA ST
+CENTRAL, MA 02114
+(42.36764789068138, -71.06564730220646)",Alive,Normal (30-60),-99,-99,0,0,-99,0,Yes,High,-99,No,Not applicable,-99,No,No,No,Not applicable,Yes,Yes,0,Multiple,9.679351287,normal,TRUE,TRUE,TRUE,TRUE,TRUE
+PID0x4f48,10,Yes,Yes,Yes,Yes,5.028953841,David,,Benjamyn,40,25,Not applicable,-,Deceased,Normal (30-60),-99,0,0,0,1,0,Yes,High,Male,Not available,-99,Home,-99,Yes,-,Not applicable,Yes,Yes,1,Singular,-99,slightly abnormal,TRUE,TRUE,TRUE,FALSE,TRUE
+PID0x106,2,No,No,Yes,Yes,5.28821518,Robert,,Mccormick,20,43,Not applicable,-,Deceased,Tachypnea,Normal,0,-99,0,1,-99,Yes,High,Ambiguous,-99,None,-99,Yes,No,-,-99,No,No,-99,Multiple,8.822832402,-99,TRUE,FALSE,FALSE,TRUE,TRUE
+PID0x1b9a,11,Yes,No,Yes,No,4.977440849,Doris,,Jaeshon,42,55,-99,"49 ROBINWOOD AV
+JAMAICA PLAIN, MA 02130
+(42.31617666213941, -71.11272670363542)",Alive,-99,-99,-99,0,0,1,0,Yes,High,-99,-99,Not applicable,-99,No,Yes,No,-99,-99,-99,2,Singular,6.995240108,-99,TRUE,FALSE,TRUE,TRUE,TRUE
+PID0x3923,14,Yes,No,Yes,No,4.917178305,David,,Stevenmichael,25,40,,-,Alive,-99,Normal,0,0,0,-99,0,-99,High,Female,-99,Not applicable,-99,No,No,-99,-99,-99,Yes,-99,Singular,5.023330242,abnormal,TRUE,FALSE,TRUE,FALSE,FALSE
+PID0x3195,1,Yes,No,No,Yes,4.95267391,Terry,,Thawng,35,33,-99,-,Deceased,Normal (30-60),,-99,0,-99,1,0,Yes,High,Ambiguous,No,None,Home,Yes,Yes,No,-99,Yes,No,0,-99,12,slightly abnormal,FALSE,FALSE,TRUE,FALSE,TRUE
+PID0x4f39,13,No,No,,No,4.869374292,Michael,,Kerick,47,40,Massachusetts Eye & Ear Infirmary,"185 PILGRIM RD
+FENWAY/KENMORE, MA 02215
+(42.3385289546495, -71.10940050507557)",Alive,Normal (30-60),,-99,0,0,-99,0,-99,High,Ambiguous,No record,Not applicable,-99,No,Yes,-99,-,No,No,3,Multiple,6.721723357,abnormal,FALSE,FALSE,FALSE,TRUE,FALSE
+PID0x5ebf,12,Yes,No,,No,5.104272502,Christopher,,Kiai,28,26,-99,-,Alive,-99,Normal,-99,0,0,-99,0,Yes,-99,Female,Yes,Not applicable,Home,Yes,No,-,Yes,Yes,Yes,0,Multiple,8.524036993,abnormal,TRUE,TRUE,TRUE,TRUE,TRUE
+PID0x61c7,11,Yes,Yes,,Yes,4.839397086,Allen,,Crishaun,30,47,,-,Deceased,-99,Normal,0,0,0,1,0,Yes,Low,-99,Yes,No,Home,No,Yes,-,-99,-99,No,2,-99,11.54638016,inconclusive,TRUE,TRUE,TRUE,TRUE,TRUE
+PID0x7f19,14,Yes,Yes,,No,5.175520235,Ila,,Judah,46,27,Not applicable,-,Alive,Tachypnea,Normal,-99,0,-99,1,0,Yes,High,-99,Not available,Not applicable,-99,Yes,No,-,Not applicable,-99,-99,1,Singular,-99,inconclusive,TRUE,FALSE,TRUE,TRUE,TRUE
+PID0x2891,11,Yes,No,Yes,No,5.090294635,Kirk,,Kentravious,19,61,Not applicable,-,Alive,,Normal,0,0,-99,1,0,Yes,Low,Female,No,Not applicable,Home,No,Yes,Yes,-,No,Yes,0,Multiple,7.308079193,normal,TRUE,TRUE,TRUE,FALSE,FALSE
+PID0x8cba,12,No,Yes,,Yes,4.925356013,Nicholas,,Meldin,27,38,,-,Deceased,,Normal,0,-99,0,-99,0,Yes,High,-99,-99,None,Home,-99,Yes,-,No,Yes,No,4,Singular,3.898038033,normal,TRUE,FALSE,FALSE,FALSE,FALSE
+PID0x6ed6,1,Yes,No,Yes,No,4.744555247,Edward,Hines,Marcell,38,46,Not applicable,-,Alive,Tachypnea,Normal,0,0,-99,1,-99,Yes,-99,Female,Not available,Not applicable,Home,Yes,No,Yes,Not applicable,Yes,Yes,-99,Singular,3,slightly abnormal,FALSE,FALSE,FALSE,TRUE,TRUE
+PID0x24cc,1,Yes,Yes,,No,5.048326112,Randy,,Christiaan,36,60,Not applicable,-,Alive,,,0,0,0,-99,0,Yes,Low,Female,Yes,Not applicable,Home,Yes,-99,-99,-99,Yes,No,3,-99,-99,slightly abnormal,FALSE,TRUE,FALSE,FALSE,FALSE
+PID0x8da6,5,Yes,No,,No,4.992600677,James,,Moe,46,44,New England Baptist Hospital,"249 RIVER ST
+MATTAPAN, MA 02126
+(42.27137912172521, -71.08168028446168)",Alive,,,0,0,0,1,-99,Yes,Low,-99,Not available,Not applicable,Institute,-99,Yes,No,-,No,Yes,0,Multiple,8.629198063,inconclusive,TRUE,TRUE,TRUE,TRUE,TRUE
+PID0x5e25,13,Yes,No,No,Yes,4.964395239,Beverly,,Negus,51,23,Not applicable,-,Deceased,,-99,0,-99,0,1,0,Yes,-99,Ambiguous,-99,No,Home,Yes,No,No,-,Yes,-99,1,-99,-99,slightly abnormal,TRUE,TRUE,TRUE,TRUE,TRUE
+PID0xe49,11,Yes,No,No,Yes,4.811502842,Russell,,Kermit,33,23,-99,-,Alive,,Tachycardia,0,-99,0,-99,0,Yes,High,Ambiguous,-99,Not applicable,Home,Yes,No,No,Yes,-99,No,4,Singular,3,inconclusive,TRUE,TRUE,FALSE,TRUE,FALSE
+PID0x5b4f,11,No,No,No,Yes,4.697635738,Alexis,,Daquavius,41,58,Not applicable,-,Alive,,Normal,0,0,0,1,0,-99,High,Ambiguous,-99,Not applicable,Home,-99,-99,-,-99,No,-99,-99,Singular,6.536325286,-99,FALSE,TRUE,TRUE,TRUE,TRUE
+PID0x95a3,6,Yes,No,,Yes,4.706624547,Joseph,,Bryheem,42,53,,"736 CAMBRIDGE ST
+ALLSTON/BRIGHTON, MA 02135
+(42.349656455743144, -71.14822103232248)",Deceased,Normal (30-60),,-99,0,0,1,0,Yes,High,Ambiguous,Yes,Yes,Institute,-99,Yes,-,-99,No,Yes,4,Multiple,-99,inconclusive,FALSE,TRUE,FALSE,TRUE,TRUE
+PID0x38aa,14,Yes,Yes,Yes,No,4.912585055,Janice,,Battle,48,46,-99,"55 FRUIT ST
+CENTRAL, MA 02114
+(42.36247485742686, -71.06924724545246)",Deceased,Tachypnea,,0,0,0,1,0,-99,High,Male,Not available,None,Institute,Yes,Yes,-,-99,No,Yes,4,Multiple,12,slightly abnormal,TRUE,TRUE,TRUE,TRUE,TRUE
+PID0x6807,14,No,Yes,No,No,4.835234773,Katherine,,Emerick,50,49,-99,-,Alive,,,0,0,0,-99,0,Yes,Low,Ambiguous,Yes,Not applicable,-99,No,-99,Not applicable,No,Yes,No,4,-99,-99,slightly abnormal,TRUE,TRUE,TRUE,TRUE,FALSE
+PID0xaa9,0,No,No,Yes,No,4.846577662,Annette,,Zeev,45,46,,"125 NASHUA ST
